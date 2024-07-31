@@ -4,10 +4,10 @@ juego simple, centrándose en el uso de interfaces y la lógica del juego. Aunqu
 cómo se pueden integrar estos conceptos en un proyecto de programación.
 
 ## Contenido
-- [Descripción](juego-del-ahorcado)
-- [Detalles del proyecto](el-proyecto)
-- [Correcciones](correcciones)
-- [Autores](autores)
+- [Descripción](#juego-del-ahorcado)
+- [Detalles del proyecto](#el-proyecto)
+- [Correcciones](#correcciones)
+- [Autores](#autores)
 
 ## El proyecto
 Este proyecto consiste en una versión simplificada del juego del Ahorcado. La lógica del juego se basa en adivinar una palabra oculta a partir de letras 
